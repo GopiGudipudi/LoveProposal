@@ -23,7 +23,7 @@ html,body{
     width:100%;
     text-align:center;
     color:white;
-    font-family:'Great Vibes', cursive;
+    font-family:
 }
 .heart{
     position:absolute;
@@ -95,13 +95,6 @@ html,body{
 }
 @-moz-keyframes love{
     0%{top:110%}
-}
-@media (max-width: 768px){
-    .animated-name {
-        font-size: 25px; 
-        word-spacing: 20px; 
-        text-shadow: 1px 1px 3px #ff1493; 
-    }
 }
 
 @media (max-width: 480px) { 
