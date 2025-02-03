@@ -68,7 +68,7 @@ html,body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    animation: glowing 2s infinite alternate, moveUpDown 3s infinite ease-in-out;
+    animation:handwriting 3s ease-in-out forwards, glowing 2s infinite alternate;
     text-align: center; 
     white-space: nowrap;
 }
@@ -99,7 +99,7 @@ html,body{
 
 @media (max-width: 480px) { 
     .animated-name {
-        font-size: 10px; 
-        word-spacing: 5px; 
+        font-size: 15px; 
+        word-spacing: 3px; 
     }
 }
