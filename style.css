@@ -1,7 +1,7 @@
 html,body{
     margin:0px;
     height:100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: ''Montserrat', sans-serif;
 }
 .bg_heart{
     position:relative;
@@ -23,7 +23,7 @@ html,body{
     width:100%;
     text-align:center;
     color:white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Great Vibes', cursive;
 }
 .heart{
     position:absolute;
