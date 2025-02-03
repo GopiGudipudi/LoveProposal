@@ -99,7 +99,7 @@ html,body{
 
 @media (max-width: 480px) { 
     .animated-name {
-        font-size: 40px; 
+        font-size: 60px; 
         word-spacing: 10px; 
     }
 }
