@@ -62,7 +62,7 @@ html,body{
     position: absolute;
     font-size: 20px; 
     font-weight: bold;
-    word-spacing: 20px;
+    word-spacing: 10px;
     color: white;
     text-shadow: 2px 2px 5px #ff1493;
     top: 50%;
